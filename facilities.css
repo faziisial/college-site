@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image:linear-gradient(rgba(4,9,20,0.7),rgba(4,9,20,0.7)) ,url(data/college.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+h1{
+    margin-bottom: 20px;
+    font-weight: 800;
+}
+h3{
+    padding: 20;
+}
+.facilities{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 80px;
+    color: white;
+    
+}
+.facilities p{
+    margin-bottom: 30px;
+}
+.colum{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+}
+.colum img{
+    width: 30%;
+    border-radius: 20px;
+    float: left;
+    padding: 10px;
+}
+.colum p{
+    margin: auto;
+}
+
+

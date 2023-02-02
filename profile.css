@@ -1,0 +1,13 @@
+*{
+    
+    box-sizing: border-box;
+}
+body{
+    background-color:rgb(180, 95, 95);
+}
+h2{
+    text-align: center;
+}
+li{
+    list-style: circle;
+}
